@@ -12,6 +12,6 @@ Clone the repo and run:
 pip install -r requirements.txt
 ~~~
 
-Note: Please change *CREADS in main.py to your spotify account credentails
+Note: Please change *CREADS in main.py to your Spotify account credentials
 
 Thanks for checking out!!!
